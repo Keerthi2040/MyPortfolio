@@ -944,3 +944,10 @@ textarea {
 #projects .heading-sec__main{
   padding-top: 5%;
 }
+.experience-description {
+  font-size: 1.7rem;
+  line-height: 1.8;
+  text-align: justify;
+  margin-bottom: 1.5rem;
+  color: #444;
+}
