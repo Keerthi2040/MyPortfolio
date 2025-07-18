@@ -152,7 +152,8 @@ textarea {
 .main-container {
   max-width: 120rem;
   margin: auto;
-  width: 92%; }
+  width: 92%;
+text-align:justify }
 
 .btn {
   background: #fff;
@@ -302,7 +303,8 @@ textarea {
       color: grey;
       max-width: 60rem;
       line-height: 1.7;
-      margin-bottom: 1rem; }
+      margin-bottom: 1rem; 
+    text-align: justify;}
       .about__content-details-para--hl {
         font-weight: 700;
         margin: 0 3px; }
